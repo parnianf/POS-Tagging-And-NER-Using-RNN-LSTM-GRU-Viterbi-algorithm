@@ -5,6 +5,7 @@ In this Project, we want to practice some methods of solving sequential problems
 ### Dataset
 
 The dataset of this project is from the `Penn Treebank (PTB)` dataset, which is accessible by the `nltk` library.
+
 \* For running the code, in case you want to read the emission matrix for Viterbi algorithm make sure you have “emission_ptb.csv” and “NER_emission_15.csv” files.
 
 ## Part 1: Part of Speech Tagging (POS) 
