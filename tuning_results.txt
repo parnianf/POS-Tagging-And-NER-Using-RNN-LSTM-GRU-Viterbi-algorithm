@@ -1,0 +1,111 @@
+--------------> LAYER TYPE: RNN <--------------
+Layer: RNN, Batch size: 16, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.71428
+------------------------------
+Layer: RNN, Batch size: 16, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.70669
+------------------------------
+Layer: RNN, Batch size: 16, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.85470
+------------------------------
+Layer: RNN, Batch size: 16, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.85782
+------------------------------
+Layer: RNN, Batch size: 32, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.71025
+------------------------------
+Layer: RNN, Batch size: 32, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.72261
+------------------------------
+Layer: RNN, Batch size: 32, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.83895
+------------------------------
+Layer: RNN, Batch size: 32, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.85643
+------------------------------
+Layer: RNN, Batch size: 64, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.69184
+------------------------------
+Layer: RNN, Batch size: 64, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.72261
+------------------------------
+Layer: RNN, Batch size: 64, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.82983
+------------------------------
+Layer: RNN, Batch size: 64, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.85190
+------------------------------
+--------------> LAYER TYPE: LSTM <--------------
+Layer: LSTM, Batch size: 16, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.72306
+------------------------------
+Layer: LSTM, Batch size: 16, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.72363
+------------------------------
+Layer: LSTM, Batch size: 16, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.85592
+------------------------------
+Layer: LSTM, Batch size: 16, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.86079
+------------------------------
+Layer: LSTM, Batch size: 32, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.71082
+------------------------------
+Layer: LSTM, Batch size: 32, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.72884
+------------------------------
+Layer: LSTM, Batch size: 32, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.84207
+------------------------------
+Layer: LSTM, Batch size: 32, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.86295
+------------------------------
+Layer: LSTM, Batch size: 64, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.68799
+------------------------------
+Layer: LSTM, Batch size: 64, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.72827
+------------------------------
+Layer: LSTM, Batch size: 64, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.80578
+------------------------------
+Layer: LSTM, Batch size: 64, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.84377
+------------------------------
+--------------> LAYER TYPE: GRU <--------------
+Layer: GRU, Batch size: 16, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.71813
+------------------------------
+Layer: GRU, Batch size: 16, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.71008
+------------------------------
+Layer: GRU, Batch size: 16, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.85788
+------------------------------
+Layer: GRU, Batch size: 16, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.85935
+------------------------------
+Layer: GRU, Batch size: 32, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.71756
+------------------------------
+Layer: GRU, Batch size: 32, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.71830
+------------------------------
+Layer: GRU, Batch size: 32, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.85388
+------------------------------
+Layer: GRU, Batch size: 32, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.86037
+------------------------------
+Layer: GRU, Batch size: 64, Padding Max length: 50, Embedding size: 100
+val_accuracy=0.70924
+------------------------------
+Layer: GRU, Batch size: 64, Padding Max length: 50, Embedding size: 300
+val_accuracy=0.73014
+------------------------------
+Layer: GRU, Batch size: 64, Padding Max length: 100, Embedding size: 100
+val_accuracy=0.84153
+------------------------------
+Layer: GRU, Batch size: 64, Padding Max length: 100, Embedding size: 300
+val_accuracy=0.85887
+------------------------------
