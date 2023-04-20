@@ -27,3 +27,7 @@ The dataset of this project is from the `Penn Treebank (PTB)` dataset, which is 
 * Importing `Penn Treebank` dataset using `nltk`
 * Explanation of `IOB tag`
 * NER using adjusted `Viterbi algorithm` 
+
+
+## Report
+Report is available [here](https://github.com/parnianf/POS-Tagging-And-NER-Using-RNN-LSTM-GRU-Viterbi-algorithm/blob/main/NLP_CA3_Report_English.pdf).
